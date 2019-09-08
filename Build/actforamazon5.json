@@ -1,0 +1,16 @@
+{
+"companyName": "ps",
+"productName": "ACT FOR AMAZON",
+"productVersion": "1",
+"dataUrl": "actforamazon5.data.unityweb",
+"wasmCodeUrl": "actforamazon5.wasm",
+"wasmFrameworkUrl": "actforamazon5.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#D8A163",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.2f1"
+}
